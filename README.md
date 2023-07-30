@@ -1,6 +1,6 @@
 # El Molino - Restaurante Automatizado
 
-¡Bienvenidos a El Molino! Este proyecto es el resultado de nuestro Proyecto Final realizado en conjunto con el equipo de Henry. Se trata de una innovadora página web para un restaurante que busca minimizar, o incluso eliminar, el contacto entre el cliente y los mozos a través de una automatización completa del proceso de entrega.
+¡Bienvenidos a El Molino! Este proyecto es el resultado de nuestro Proyecto Final realizado en conjunto con el equipo del Grupó 15 FT-38a de soyHenry. Se trata de una innovadora página web para un restaurante que busca minimizar, o incluso eliminar, el contacto entre el cliente y los mozos a través de una automatización completa del proceso de entrega.
 
 ## Características Clave
 
@@ -23,7 +23,7 @@ Para nuestros clientes, hemos diseñado una experiencia sencilla y sin contacto.
 - **Sitio Web**: [El Molino - Restaurante Automatizado](https://resto-front-testing.vercel.app/)
 - **Repositorio**: [El Molino en GitHub](https://github.com/GianGrav/Proyecto-Final_El-Molino)
 
-Esperamos que disfrutes explorando El Molino tanto como nosotros disfrutamos creándolo. Este proyecto representa un paso adelante en la industria de restaurantes al ofrecer una experiencia más segura, ágil y eficiente para nuestros clientes y el equipo de administración.
+Esperamos que disfrutes explorando El Molino tanto como nosotros disfrutamos creándolo. Este proyecto representa una forma de ofrecer una experiencia más segura, ágil y eficiente para nuestros clientes y el equipo de administración.
 
 ¡Gracias por visitar El Molino!
 
